@@ -75,6 +75,6 @@ AutoCAD, CAE2D, SOLIDWORKS, Autodesk Fusion, 3DEXPERIENCE CATIA, BLENDER, ANSYS
 
 8. 連絡先
 
-電話番号：070-8485-5491
-メール：naylinaung9810libra@gmail.com
+電話番号：070-8485-5491<br>
+メール：naylinaung9810libra@gmail.com<br>
 GitHub：https://github.com/naylinaung-10
