@@ -62,7 +62,7 @@ e.最終確認・納品
 
 # 使用ソフト
 
-AutoCAD, CAE2D, SOLIDWORKS, Autodesk Fusion, 3DEXPERIENCE CATIA, BLENDER, ANSYS
+AutoCAD, CAE2D, SOLIDWORKS, Autodesk Fusion, 3DEXPERIENCE CATIA, BLENDER, ANSYS, Cursor生成AI, Python3
 
 # 自己PR
 
